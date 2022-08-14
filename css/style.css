@@ -37,7 +37,7 @@ nav{
 	width:100%;
 	box-sizing: border-box;
 	padding: 10px 50px;
-	background-color:#bdbdbd;
+	background-color:#0ab3d5;
 	box-shadow:2px 2px 12px rgba(0,0,0,0.05); 
 	z-index: 1;
 }
@@ -47,7 +47,7 @@ nav{
 }
 .menu li a{
 	padding: 10px 15px;
-	color:#6c707c;
+	color:#000000;
 	font-size: 12px;
 	
 }
@@ -536,7 +536,8 @@ width: 100%;
 		transform: translate(-10%,-50%);
 	}
 	.about-model img{
-		height:100px;
+		height:400px;
+		width: 400px;
 	}
 	#services{
 		height:auto;
@@ -567,6 +568,7 @@ width: 100%;
 	}
 	.about-model{
 		display: none;
+		
 	}
 	#about{
 		justify-content: center;
